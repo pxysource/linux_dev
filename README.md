@@ -1,2 +1,4 @@
-# c-studyNotes
-C language study notes summary. Summary of knowledge points used in C language.
+# Linux开发笔记
+
+- userspace应用开发
+- linux驱动开发
