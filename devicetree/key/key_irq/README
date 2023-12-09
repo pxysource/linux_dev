@@ -1,0 +1,5 @@
+HW: 
+    - zynq 7020(正点原子领航者开发板)
+    - key: PS_KEY0(MIO12) 
+OS: linux-xlnx-xilinx-v14.5
+
